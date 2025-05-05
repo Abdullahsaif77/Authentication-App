@@ -1,0 +1,34 @@
+.box{
+    background-color: bisque;
+    width: 400px;
+    height: 380px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+.box h2{
+    margin-left: 150px;
+}
+.box label{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.box input{
+    margin-left: 50px;
+    padding: 10px 100px 10px 10px;
+}
+.box button{
+    margin-left: 130px;
+    padding: 15px 40px 15px 40px;
+    margin-top: 20px;
+    background-color: royalblue;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+}
+.box span {
+    margin-left: 50px;
+    position: relative;
+    top: 20px;
+}

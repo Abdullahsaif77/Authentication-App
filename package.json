@@ -1,0 +1,19 @@
+{
+  "name": "authentication_app",
+  "version": "1.0.0",
+  "description": "User euthentication when the user login or signup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "socket.io": "^4.8.1"
+  }
+}
